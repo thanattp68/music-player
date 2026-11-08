@@ -1,7 +1,7 @@
 'use strict';
 
 // เปลี่ยนเลขเวอร์ชันทุกครั้งที่แก้ไฟล์ เพื่อให้เครื่องดึงโค้ดใหม่
-const CACHE = 'music-player-v1';
+const CACHE = 'music-player-v3';
 const ASSETS = [
   './',
   './index.html',
